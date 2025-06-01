@@ -12,7 +12,7 @@ Looking for the code from one of our recent papers, talk or poster?
   - [CYTO 2025 Single Colors](https://github.com/DavidRach/SingleColors_Cyto2025)
   - [CYTO 2025 Evening QC](https://github.com/DavidRach/EveningQC_Cyto2025)
 
-I'm graduating soon and looking next adventure:
+I'm graduating soon and looking for my next adventure:
 
   - [Resume](https://davidrach.github.io/Resume_2025.pdf)
 
