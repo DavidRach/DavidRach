@@ -1,5 +1,5 @@
 Currently working on in R:
-  - [Luciernaga](https://github.com/DavidRach/Luciernaga): Tools for quality control and signature evaluation of SFC unmixing controls.
+  - [Luciernaga](https://github.com/DavidRach/Luciernaga) Tools for quality control and signature evaluation of SFC unmixing controls.
   - [Coereba](https://github.com/DavidRach/Coereba) How heterogenous are the cells within your SFC panels.
   - [InstrumentQC](https://umgccfcss.github.io/InstrumentQC/) An automated dashboard for monitoring Cytek and BD InstrumentQC data.
   - [InstrumentQC Install How-To](https://github.com/DavidRach/InstrumentQC_Install) Current method of implementing an InstrumentQC website for other core facilities. 
