@@ -5,7 +5,7 @@ Currently working on in R:
   - [InstrumentQC Install How-To](https://github.com/DavidRach/InstrumentQC_Install) Current method of implementing an InstrumentQC website for other core facilities. 
   - [CytometryQC](https://github.com/DavidRach/CytometryQC) Nearing completion, should allow for one-click installation of InstrumentQC websites. 
  
-Looking for our recent papers, talk or poster code?
+Looking for the code from one of our recent papers, talk or poster?
 
   - [Cord Blood Innate-like T cells](https://github.com/DavidRach/CordBloodILTs)
   - [CYTO 2025 Autofluorescence](https://github.com/DavidRach/Autofluorescence_Cyto2025)
