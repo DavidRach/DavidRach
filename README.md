@@ -7,7 +7,7 @@ Currently working on in R:
  
 Looking for the code from one of our recent papers, talk or poster?
 
-  - [Cord Blood Innate-like T cells](https://github.com/DavidRach/CordBloodILTs)
+  - [Cord Blood Innate-like T cells](https://github.com/DavidRach/CordBloodILTs) *Frontiers in Immunology*
   - [CYTO 2025 Autofluorescence](https://github.com/DavidRach/Autofluorescence_Cyto2025)
   - [CYTO 2025 Single Colors](https://github.com/DavidRach/SingleColors_Cyto2025)
   - [CYTO 2025 Evening QC](https://github.com/DavidRach/EveningQC_Cyto2025)
