@@ -6,7 +6,7 @@ Currently working on in R:
   - [CytometryQC](https://github.com/DavidRach/CytometryQC) Nearing completion, should allow for one-click installation of InstrumentQC websites.
 
 Upcoming Free Virtual Mini-Course (starting January 2026):
-  - ["Cytometry in R: A Course for Beginners"](https://umgccfcss.github.io/CytometryInR/)
+  - [Cytometry in R: A Course for Beginners](https://umgccfcss.github.io/CytometryInR/) Basically the course I wish had been available back in 2020 when I got thrown into the R deep end without knowing how to swim. Intentionally aimed at those with flow cytometry expertise, but no-to-limited R skills.
  
 Looking for the code from one of our recent papers, talk or poster?
 
