@@ -3,7 +3,10 @@ Currently working on in R:
   - [Coereba](https://github.com/DavidRach/Coereba) How heterogenous are the cells within your SFC panels.
   - [InstrumentQC](https://umgccfcss.github.io/InstrumentQC/) An automated dashboard for monitoring Cytek and BD InstrumentQC data.
   - [InstrumentQC Install How-To](https://github.com/DavidRach/InstrumentQC_Install) Current method of implementing an InstrumentQC website for other core facilities. 
-  - [CytometryQC](https://github.com/DavidRach/CytometryQC) Nearing completion, should allow for one-click installation of InstrumentQC websites. 
+  - [CytometryQC](https://github.com/DavidRach/CytometryQC) Nearing completion, should allow for one-click installation of InstrumentQC websites.
+
+Upcoming Free Virtual Mini-Course (starting January 2026):
+  - ["Cytometry in R: A Course for Beginners"](https://umgccfcss.github.io/CytometryInR/)
  
 Looking for the code from one of our recent papers, talk or poster?
 
