@@ -1,3 +1,6 @@
+Currently teaching:
+  - [Cytometry in R: A Course for Beginners](https://umgcccfcsr.github.io/CytometryInR/) Basically the course I wish had been available back in 2020 when I got thrown into the R deep end without knowing how to swim. Intentionally aimed at those with flow cytometry expertise, but no-to-limited R skills.
+
 Currently working on in R:
   - [Luciernaga](https://github.com/DavidRach/Luciernaga) Tools for quality control and signature evaluation of SFC unmixing controls.
   - [Coereba](https://github.com/DavidRach/Coereba) How heterogenous are the cells within your SFC panels.
@@ -5,9 +8,6 @@ Currently working on in R:
   - [InstrumentQC Install How-To](https://github.com/DavidRach/InstrumentQC_Install) Current method of implementing an InstrumentQC website for other core facilities. 
   - [CytometryQC](https://github.com/DavidRach/CytometryQC) Nearing completion, should allow for one-click installation of InstrumentQC websites.
 
-Upcoming Free Virtual Mini-Course (starting January 2026):
-  - [Cytometry in R: A Course for Beginners](https://umgcccfcsr.github.io/CytometryInR/) Basically the course I wish had been available back in 2020 when I got thrown into the R deep end without knowing how to swim. Intentionally aimed at those with flow cytometry expertise, but no-to-limited R skills.
- 
 Looking for the code from one of our recent papers, talk or poster?
 
   - [Cord Blood Innate-like T cells](https://github.com/DavidRach/CordBloodILTs) *Frontiers in Immunology*
