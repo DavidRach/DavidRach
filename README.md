@@ -12,10 +12,10 @@ Currently working on in R:
 
 Upcoming Conference Talks and Posters
 
-- [Bioc2026: Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience](https://davidrach.github.io/abstracts.html#bioc-2026---cytometry-in-r) *Accepted - Oral*
-- [CYTO2026: Being Everything, Everywhere, All at Once: Open-Source Automation for Situational Awareness in SRLs](https://davidrach.github.io/abstracts.html#cyto-2026---flow-awarenesss) *Accepted - Oral*
-- [CYTO2026: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples](https://davidrach.github.io/abstracts.html#cyto-2026---alpha-beta) *Accepted - Oral*
-- [CYTO2026: Cytometry in R: A free weekly course for coding beginners](https://davidrach.github.io/abstracts.html#cyto-2026---cytometry-in-r) *Accepted - Poster*
+- [Bioc2026](https://davidrach.github.io/abstracts.html#bioc-2026---cytometry-in-r): Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience *Accepted - Oral*
+- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---flow-awarenesss): Being Everything, Everywhere, All at Once: Open-Source Automation for Situational Awareness in SRLs *Accepted - Oral*
+- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---alpha-beta): A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples *Accepted - Oral*
+- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---cytometry-in-r): Cytometry in R: A free weekly course for coding beginners *Accepted - Poster*
 
 Looking for the code from one of our previous papers, talk or poster?
 
