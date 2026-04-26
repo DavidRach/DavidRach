@@ -2,7 +2,7 @@ If you are looking for the slides for my ABRF 2026 - Complex Data Analysis prese
 
 Currently teaching:
   - [Cytometry in R: A Course for Beginners](https://umgcccfcsr.github.io/CytometryInR/) Basically the course I wish had been available back in 2020 when I got thrown into the R deep end without knowing how to swim. Intentionally aimed at those with flow cytometry expertise, but no-to-limited R skills.
-  - 
+
 Currently working on in R:
   - [Luciernaga](https://github.com/DavidRach/Luciernaga) Tools for quality control and signature evaluation of SFC unmixing controls.
   - [Coereba](https://github.com/DavidRach/Coereba) How heterogenous are the cells within your SFC panels.
@@ -12,10 +12,10 @@ Currently working on in R:
 
 Upcoming Conference Talks and Posters
 
-- [Bioc2026](https://davidrach.github.io/abstracts.html#bioc-2026---cytometry-in-r): Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience *Accepted - Oral*
-- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---flow-awarenesss): Being Everything, Everywhere, All at Once: Open-Source Automation for Situational Awareness in SRLs *Accepted - Oral*
-- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---alpha-beta): A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples *Accepted - Oral*
-- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---cytometry-in-r): Cytometry in R: A free weekly course for coding beginners *Accepted - Poster*
+- [Bioc2026](https://davidrach.github.io/abstracts.html#bioc-2026---cytometry-in-r) : Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience. *Accepted - Oral*
+- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---flow-awarenesss) : Being Everything, Everywhere, All at Once: Open-Source Automation for Situational Awareness in SRLs. *Accepted - Oral*
+- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---alpha-beta) : A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. *Accepted - Oral*
+- [CYTO2026](https://davidrach.github.io/abstracts.html#cyto-2026---cytometry-in-r) : Cytometry in R: A free weekly course for coding beginners. *Accepted - Poster*
 
 Looking for the code from one of our previous papers, talk or poster?
 
@@ -24,7 +24,7 @@ Looking for the code from one of our previous papers, talk or poster?
   - [CYTO 2025 Single Colors](https://github.com/DavidRach/SingleColors_Cyto2025)
   - [CYTO 2025 Evening QC](https://github.com/DavidRach/EveningQC_Cyto2025)
 
-I'm graduating Wednesday, June 17, 2026 and looking for my next adventure:
+I'm graduating **Wednesday, June 17, 2026** and looking for my next adventure:
 
   - [Resume](https://davidrach.github.io/Resume_2026.pdf)
 
