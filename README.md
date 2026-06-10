@@ -13,10 +13,10 @@ Upcoming Conference Talks and Posters
 - [Bioc2026](https://davidrach.github.io/abstracts.html#bioc-2026---cytometry-in-r) : Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience. *Accepted - Oral*
 
 Looking for the code from one of our previous papers, talk or poster?
-  - CYTO2026: Being Everything, Everywhere, All at Once: Open-Source Automation for Situational Awareness in SRLs. [Slides]https://davidrach.github.io/FlowAwareness_Cyto2026/Rach_EverythingEverywhereAllAtOnce_Cyto2026.pdf)  [Code]()
+  - CYTO2026: Being Everything, Everywhere, All at Once: Open-Source Automation for Situational Awareness in SRLs. [Slides](https://davidrach.github.io/FlowAwareness_Cyto2026/Rach_EverythingEverywhereAllAtOnce_Cyto2026.pdf)  [Code]()
   - CYTO2026: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Slides](https://davidrach.github.io/AlphaBeta_Cyto2026/Rach_SemiSupervised_Cyto2026.pdf)  [Code]()
-  - CYTO2026: Cytometry in R: A free weekly course for coding beginners. [Poster]([https://davidrach.github.io/abstracts.html#cyto-2026---cytometry-in-r](https://davidrach.github.io/CytometryInR_Cyto2026/DavidRach_FinalCyto2026.pdf)  [Code]()
-  - ABRF2026: Complex Data Analysis )- [Slides](https://davidrach.github.io/ABRF_2026.pdf)  [Code]()
+  - CYTO2026: Cytometry in R: A free weekly course for coding beginners. [Poster](https://davidrach.github.io/CytometryInR_Cyto2026/DavidRach_FinalCyto2026.pdf)  [Code]()
+  - ABRF2026: Complex Data Analysis - [Slides](https://davidrach.github.io/ABRF_2026.pdf)  [Code]()
 
   - *Frontiers in Immunology* Cord Blood Innate-like T cells [Paper](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1628145/pdf)   [Code](https://github.com/DavidRach/CordBloodILTs)
 
