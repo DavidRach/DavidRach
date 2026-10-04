@@ -21,11 +21,12 @@
 
 
 <ins>Looking for resources from a recent talk or poster?</ins>
+
   - Cytek Internal Webinar: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/abstracts.html#cytek-internal-2026---semisupervised-pipeline) [Code](https://github.com/DavidRach/SemiSupervised_Cytek2026) [Slides](https://davidrach.github.io/SemiSupervised_Cytek2026/Rach_SemiSupervised_Cyto2026.pdf)
 
-  - Chesapeake Cytometry Consortium: Quirks and All: unlocking comprehensive biological discovery out of your spectral flow cytometry datasets. [Abstract](https://davidrach.github.io/abstracts.html#ccc-2026---quirks-and-all) [Code](https://github.com/DavidRach/QuirksAndAll_CCC2026) [Slides]() [Recording](https://youtu.be/o5EhGLLpFjs?si=oberq2WvHY3Y_Lz9)     
+  - Chesapeake Cytometry Consortium: Quirks and All: unlocking comprehensive biological discovery out of your spectral flow cytometry datasets. [Abstract](https://davidrach.github.io/abstracts.html#ccc-2026---quirks-and-all) [Code](https://github.com/DavidRach/QuirksAndAll_CCC2026) [Slides](https://davidrach.github.io/QuirksAndAll_CCC2026/Rach_QuirksAndAll_CCC2026.pdf) [Recording](https://youtu.be/o5EhGLLpFjs?si=oberq2WvHY3Y_Lz9)     
 
-  - Bioc2026: Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience. [Abstract](https://davidrach.github.io/abstracts.html#bioc-2026---cytometry-in-r) [Code](https://github.com/DavidRach/CytometryIn_Bioc2026) [Slides]() [Recording](https://youtu.be/krVI-HXm4_w?si=A9jKpHfUWB0tfmrk&t=1479)     
+  - Bioc2026: Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience. [Abstract](https://davidrach.github.io/abstracts.html#bioc-2026---cytometry-in-r) [Code](https://github.com/DavidRach/CytometryIn_Bioc2026) [Slides](https://davidrach.github.io/CytometryIn_Bioc2026/DavidRach_CytometryInR_BioC2026.pdf) [Recording](https://youtu.be/krVI-HXm4_w?si=A9jKpHfUWB0tfmrk&t=1479)     
 
   - PhD Dissertation Defense: [Abstract]() [Code]() [Slides]() [Recording](https://youtu.be/h_G-UR-BmS4?si=RJXEQaFFgqxIzF-W)
 
