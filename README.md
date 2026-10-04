@@ -13,7 +13,7 @@
 
 <ins>Upcoming Conference Talks and Posters</ins>
 
-- New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/abstracts.html#necyto-2026---deciphering-the-black-box) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) **November 5, 2026**
+- New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/Deciphering_NECyto2026/) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) **November 5, 2026**
 
 - Cytek DC/Metro User Group Meeting: Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/) [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) **October 28, 2026**
 
