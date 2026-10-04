@@ -8,16 +8,19 @@ Currently working on in R:
   - [InstrumentQC Install How-To](https://github.com/DavidRach/InstrumentQC_Install) Current method of implementing an InstrumentQC website for other core facilities. 
   - [CytometryQC](https://github.com/DavidRach/CytometryQC) Nearing completion, should allow for one-click installation of InstrumentQC websites.
 
+Recent Paper: 
+  - *Frontiers in Immunology* Cord Blood Innate-like T cells [Paper](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1628145/pdf) [Code](https://github.com/DavidRach/CordBloodILTs)
+
 Upcoming Conference Talks and Posters
 
 - New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/abstracts.html#necyto-2026---deciphering-the-black-box) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) **November 5, 2026**
 
-- Cytek DC/Metro User Group Meeting: “Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples”. [Abstract](https://davidrach.github.io/abstracts.html#cytek-ugm-2026---why-not-both) [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) **October 28, 2026**
+- Cytek DC/Metro User Group Meeting: Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/abstracts.html#cytek-ugm-2026---why-not-both) [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) **October 28, 2026**
 
 - MetroFlow: Towards ‘No Cell Left Behind’: open-source toolsets to leverage Spectral Flow Cytometry’s full biological discovery potential. [Abstract](https://davidrach.github.io/abstracts.html#metroflow-2026---no-cell-left-behind) [Code](https://github.com/DavidRach/NoCellLeftBehind_MetroFlow2026) **October 23, 2026**
 
 
-Looking for resources from a previous paper, talk or poster?
+Looking for resources from a recent talk or poster?
   - Cytek Internal Webinar: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/abstracts.html#cytek-internal-2026---semisupervised-pipeline) [Code](https://github.com/DavidRach/SemiSupervised_Cytek2026) [Slides](https://davidrach.github.io/SemiSupervised_Cytek2026/Rach_SemiSupervised_Cyto2026.pdf)
 
   - Chesapeake Cytometry Consortium: Quirks and All: unlocking comprehensive biological discovery out of your spectral flow cytometry datasets. [Abstract](https://davidrach.github.io/abstracts.html#ccc-2026---quirks-and-all) [Code](https://github.com/DavidRach/QuirksAndAll_CCC2026) [Slides]() [Recording](https://youtu.be/o5EhGLLpFjs?si=oberq2WvHY3Y_Lz9)     
@@ -35,22 +38,7 @@ Looking for resources from a previous paper, talk or poster?
   - ABRF2026: Complex Data Analysis - No Cells Left Behind: Wrangling the Full Biological Discovery
 Potential out of Spectral Flow Cytometry (SFC) datasets. [Abstract](https://davidrach.github.io/abstracts.html#abrf-2026---complex-data-analysis) [Code](https://github.com/DavidRach/ComplexDataAnalysis_ABRF2026) [Slides](https://davidrach.github.io/ABRF_2026.pdf) [Recording](https://youtu.be/l9LQZ52gv3k?t=3699)
 
-  - *Frontiers in Immunology* Cord Blood Innate-like T cells [Paper](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1628145/pdf) [Code](https://github.com/DavidRach/CordBloodILTs)
-
-  - CYTO2025:“Well, how bright does it need to be?”: Investigating the interplay of fluorescent signature and brightness in single-color unmixing controls. [Abstract](https://davidrach.github.io/abstracts.html#cyto-2025---single-colors---p299) [Code](https://github.com/DavidRach/SingleColorsTalk_Cyto2025) [Slides](https://davidrach.github.io/SingleColorsTalk_Cyto2025/DavidRach_CYTO2025.pdf)    
-
-  - CYTO2025:“Well, how bright does it need to be?”: Investigating the interplay of fluorescent signature and brightness in single-color unmixing controls. [Abstract](https://davidrach.github.io/abstracts.html#cyto-2025---single-colors---p299)  [Code](https://github.com/DavidRach/SingleColors_Cyto2025) [Poster](https://davidrach.github.io/SingleColors_Cyto2025/SingleColorsPoster.pdf)    
-
-  - CYTO2025:“Are these autofluorescences in the room with us right now?” Quantifying impact of autofluorescence variation on unmixing. [Abstract](https://davidrach.github.io/abstracts.html#cyto-2025---autofluorescence---p267) [Code](https://github.com/DavidRach/Autofluorescence_Cyto2025) [Poster](https://davidrach.github.io/Autofluorescence_Cyto2025/AutofluorescencePoster.pdf)   
-
-  - CYTO2025: “Wait, when was QC last run???” Evaluating MFI drift after morning QC and its impact on unmixing. [Abstract](https://davidrach.github.io/abstracts.html#cyto-2025---mfi-drift-after-qc---p310) [Code](https://github.com/DavidRach/EveningQC_Cyto2025) [Poster](https://davidrach.github.io/EveningQC_Cyto2025/EveningQCPoster.pdf)    
-    
-  - GammaDelta2023: Vγ9Vδ2 T cell responses in HIV-exposed Uninfected (HEU) Infants. [Abstract](https://davidrach.github.io/abstracts.html#th-international-%CE%B3%CE%B4-t-cell-conference-2023---p55) [Code](https://github.com/DavidRach/Vd2sInHEU_GammaDelta2023) [Poster](https://davidrach.github.io/Vd2sInHEU_GammaDelta2023/DavidRach_InternationalGammaDelta2023.pdf)  
-
-  - CYTO2023: Spectral Flow Cytometry Analysis of Innate-like T cell responses in
-Malawian HIV-exposed Uninfected (HEU) Infants. [Abstract](https://davidrach.github.io/abstracts.html#cyto-2023---p195) [Code](https://github.com/DavidRach/ILTsInHEU_Cyto2023) [Poster](https://davidrach.github.io/ILTsInHEU_Cyto2023/DavidRach_Cyto2023.pdf)    
-
-  - ASTMH2021: Innate-like T cell responses in HIV exposed uninfected (HEU) Malawian infants [Abstract](https://davidrach.github.io/abstracts.html#astmh-2021---p369) [Code](https://github.com/DavidRach/ILTsInHEU_ASTMH2021) [Poster](https://davidrach.github.io/ILTsInHEU_ASTMH2021/DavidRach_ASTMH2021.pdf)  
+For resources from older talks or posters, go [here]()
 
 I graduated **Wednesday, June 17, 2026** and looking for my next adventure:
 
