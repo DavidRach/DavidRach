@@ -38,10 +38,10 @@
   - ABRF2026: Complex Data Analysis - No Cells Left Behind: Wrangling the Full Biological Discovery
 Potential out of Spectral Flow Cytometry (SFC) datasets. [Abstract](https://davidrach.github.io/abstracts.html#abrf-2026---complex-data-analysis) [Code](https://github.com/DavidRach/ComplexDataAnalysis_ABRF2026) [Slides](https://davidrach.github.io/ABRF_2026.pdf) [Recording](https://youtu.be/l9LQZ52gv3k?t=3699)
 
-<ins>For resources from older talks or posters, go [here]()</ins>
+  - For resources from older talks or posters, go [here]()
 
 I graduated **Wednesday, June 17, 2026** and looking for my next adventure:
 
   - [Resume](https://davidrach.github.io/Resume_2026.pdf)
 
-Fun fact: Ultramarathon's are really just food festivals. They are generally run on trails out in nature, there's no shame in hiking the hill, and the aid stations every three miles have food that is to die for. And if that wasn't enough to make you want to sign up, some even give out hand-crafted coffee mugs to finishers.
+<ins>Fun fact</ins>: Ultramarathons are really just food festivals. They typically are run on trails out in nature, there is no shame in hiking up a hill, and the aid stations every three miles have food worth dying for. And if that wasn't enough to make you want to sign up, some even give out hand-crafted coffee mugs to finishers.
