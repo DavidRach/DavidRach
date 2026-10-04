@@ -37,7 +37,7 @@
   - CYTO2026: Cytometry in R: A free weekly course for coding beginners. [Abstract](https://davidrach.github.io/abstracts.html#cyto-2026---cytometry-in-r) [Code](https://github.com/DavidRach/CytometryInR_Cyto2026) [Poster](https://davidrach.github.io/CytometryInR_Cyto2026/DavidRach_FinalCyto2026.pdf) [Recording](https://youtu.be/dmuI-FguAsY?si=W6T6VtysBMRPVBT0)
 
   - ABRF2026: Complex Data Analysis - No Cells Left Behind: Wrangling the Full Biological Discovery
-Potential out of Spectral Flow Cytometry (SFC) datasets. [Abstract](https://davidrach.github.io/abstracts.html#abrf-2026---complex-data-analysis) [Code](https://github.com/DavidRach/ComplexDataAnalysis_ABRF2026) [Slides](https://davidrach.github.io/ABRF_2026.pdf) [Recording](https://youtu.be/l9LQZ52gv3k?t=3699)
+Potential out of Spectral Flow Cytometry (SFC) datasets. [Abstract](https://davidrach.github.io/abstracts.html#abrf-2026---complex-data-analysis) [Code](https://github.com/DavidRach/ComplexDataAnalysis_ABRF2026) [Slides](https://davidrach.github.io/ComplexDataAnalysis_ABRF2026/ABRF_2026.pdf) [Recording](https://youtu.be/l9LQZ52gv3k?t=3699)
 
   - For resources from older talks or posters, go [here](https://davidrach.github.io/abstracts.html#cyto-2025---single-colors---exceptional-student-award-nominee)
 
