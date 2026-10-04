@@ -1,17 +1,17 @@
-Currently teaching:
+<u>Currently teaching:</u>
   - [Cytometry in R: A Course for Beginners](https://umgcccfcsr.github.io/CytometryInR/) Basically the course I wish had been available back in 2020 when I got thrown into the R deep end without knowing how to swim. Intentionally aimed at those with flow cytometry expertise, but no-to-limited R skills.
 
-Currently working on in R:
+<u>Currently working on in R:</u>
   - [Luciernaga](https://github.com/DavidRach/Luciernaga) Tools for quality control and signature evaluation of SFC unmixing controls.
   - [Coereba](https://github.com/DavidRach/Coereba) How heterogenous are the cells within your SFC panels.
   - [InstrumentQC](https://umgccfcss.github.io/InstrumentQC/) An automated dashboard for monitoring Cytek and BD InstrumentQC data.
   - [InstrumentQC Install How-To](https://github.com/DavidRach/InstrumentQC_Install) Current method of implementing an InstrumentQC website for other core facilities. 
   - [CytometryQC](https://github.com/DavidRach/CytometryQC) Nearing completion, should allow for one-click installation of InstrumentQC websites.
 
-Recent Paper: 
+<u>Recent Paper:</u> 
   - *Frontiers in Immunology* Cord Blood Innate-like T cells [Paper](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1628145/pdf) [Code](https://github.com/DavidRach/CordBloodILTs)
 
-Upcoming Conference Talks and Posters
+<u>Upcoming Conference Talks and Posters</u>
 
 - New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/abstracts.html#necyto-2026---deciphering-the-black-box) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) **November 5, 2026**
 
@@ -20,7 +20,7 @@ Upcoming Conference Talks and Posters
 - MetroFlow: Towards ‘No Cell Left Behind’: open-source toolsets to leverage Spectral Flow Cytometry’s full biological discovery potential. [Abstract](https://davidrach.github.io/abstracts.html#metroflow-2026---no-cell-left-behind) [Code](https://github.com/DavidRach/NoCellLeftBehind_MetroFlow2026) **October 23, 2026**
 
 
-Looking for resources from a recent talk or poster?
+<u>Looking for resources from a recent talk or poster?</u>
   - Cytek Internal Webinar: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/abstracts.html#cytek-internal-2026---semisupervised-pipeline) [Code](https://github.com/DavidRach/SemiSupervised_Cytek2026) [Slides](https://davidrach.github.io/SemiSupervised_Cytek2026/Rach_SemiSupervised_Cyto2026.pdf)
 
   - Chesapeake Cytometry Consortium: Quirks and All: unlocking comprehensive biological discovery out of your spectral flow cytometry datasets. [Abstract](https://davidrach.github.io/abstracts.html#ccc-2026---quirks-and-all) [Code](https://github.com/DavidRach/QuirksAndAll_CCC2026) [Slides]() [Recording](https://youtu.be/o5EhGLLpFjs?si=oberq2WvHY3Y_Lz9)     
@@ -38,7 +38,7 @@ Looking for resources from a recent talk or poster?
   - ABRF2026: Complex Data Analysis - No Cells Left Behind: Wrangling the Full Biological Discovery
 Potential out of Spectral Flow Cytometry (SFC) datasets. [Abstract](https://davidrach.github.io/abstracts.html#abrf-2026---complex-data-analysis) [Code](https://github.com/DavidRach/ComplexDataAnalysis_ABRF2026) [Slides](https://davidrach.github.io/ABRF_2026.pdf) [Recording](https://youtu.be/l9LQZ52gv3k?t=3699)
 
-For resources from older talks or posters, go [here]()
+<u>For resources from older talks or posters, go [here]()</u>
 
 I graduated **Wednesday, June 17, 2026** and looking for my next adventure:
 
