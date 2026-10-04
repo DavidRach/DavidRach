@@ -32,7 +32,7 @@
 
   - CYTO2026: Being Everything, Everywhere, All at Once: Open-Source Automation for Situational Awareness in SRLs. [Abstract](https://davidrach.github.io/FlowAwareness_Cyto2026/) [Code](https://github.com/DavidRach/FlowAwareness_Cyto2026) [Slides](https://davidrach.github.io/FlowAwareness_Cyto2026/Rach_EverythingEverywhereAllAtOnce_Cyto2026.pdf) [Recording](https://youtu.be/gq8D05KjSsU?si=fBURqJYP8dYg0Hyf)
 
-  - CYTO2026: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](hhttps://davidrach.github.io/AlphaBeta_Cyto2026/) [Code](https://github.com/DavidRach/AlphaBeta_Cyto2026) [Slides](https://davidrach.github.io/AlphaBeta_Cyto2026/Rach_SemiSupervised_Cyto2026.pdf) [Recording](https://youtu.be/yvcdKR1QbIo?si=EHcP34Vi5cueK7E2)
+  - CYTO2026: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/AlphaBeta_Cyto2026/) [Code](https://github.com/DavidRach/AlphaBeta_Cyto2026) [Slides](https://davidrach.github.io/AlphaBeta_Cyto2026/Rach_SemiSupervised_Cyto2026.pdf) [Recording](https://youtu.be/yvcdKR1QbIo?si=EHcP34Vi5cueK7E2)
 
   - CYTO2026: Cytometry in R: A free weekly course for coding beginners. [Abstract](https://davidrach.github.io/CytometryInR_Cyto2026/) [Code](https://github.com/DavidRach/CytometryInR_Cyto2026) [Poster](https://davidrach.github.io/CytometryInR_Cyto2026/DavidRach_FinalCyto2026.pdf) [Recording](https://youtu.be/dmuI-FguAsY?si=W6T6VtysBMRPVBT0)
 
