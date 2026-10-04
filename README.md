@@ -39,7 +39,7 @@
   - ABRF2026: Complex Data Analysis - No Cells Left Behind: Wrangling the Full Biological Discovery
 Potential out of Spectral Flow Cytometry (SFC) datasets. [Abstract](https://davidrach.github.io/abstracts.html#abrf-2026---complex-data-analysis) [Code](https://github.com/DavidRach/ComplexDataAnalysis_ABRF2026) [Slides](https://davidrach.github.io/ABRF_2026.pdf) [Recording](https://youtu.be/l9LQZ52gv3k?t=3699)
 
-  - For resources from older talks or posters, go [here]()
+  - For resources from older talks or posters, go [here](https://davidrach.github.io/abstracts.html#cyto-2025---single-colors---exceptional-student-award-nominee)
 
 I graduated **Wednesday, June 17, 2026** and looking for my next adventure:
 
