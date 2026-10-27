@@ -28,7 +28,7 @@
 
   - Bioc2026: Cytometry in R: A free weekly course for flow cytometrist with no-to-little coding experience. [Abstract](https://davidrach.github.io/CytometryIn_Bioc2026/) [Code](https://github.com/DavidRach/CytometryIn_Bioc2026) [Slides](https://davidrach.github.io/CytometryIn_Bioc2026/DavidRach_CytometryInR_BioC2026.pdf) [Recording](https://youtu.be/krVI-HXm4_w?si=A9jKpHfUWB0tfmrk&t=1479)     
 
-  - PhD Dissertation Defense: [Abstract]() [Code]() [Slides]() [Recording](https://youtu.be/h_G-UR-BmS4?si=RJXEQaFFgqxIzF-W)
+  - PhD Dissertation Defense: [Thesis](https://davidrach.github.io/Thesis_2026.pdf) [Slides](https://davidrach.github.io/ThesisDefense_2026.pdf) [Recording](https://youtu.be/h_G-UR-BmS4?si=RJXEQaFFgqxIzF-W)
 
   - CYTO2026: Being Everything, Everywhere, All at Once: Open-Source Automation for Situational Awareness in SRLs. [Abstract](https://davidrach.github.io/FlowAwareness_Cyto2026/) [Code](https://github.com/DavidRach/FlowAwareness_Cyto2026) [Slides](https://davidrach.github.io/FlowAwareness_Cyto2026/Rach_EverythingEverywhereAllAtOnce_Cyto2026.pdf) [Recording](https://youtu.be/gq8D05KjSsU?si=fBURqJYP8dYg0Hyf)
 
