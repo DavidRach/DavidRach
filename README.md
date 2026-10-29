@@ -15,12 +15,11 @@
 
 - New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/Deciphering_NECyto2026/) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) **November 5, 2026**
 
-- Cytek DC/Metro User Group Meeting: Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/) [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) [Slides](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/Rach_WhyNotBoth_CytekUGM2026.pdf) **October 28, 2026**
-
-- MetroFlow: Towards ‘No Cell Left Behind’: open-source toolsets to leverage Spectral Flow Cytometry’s full biological discovery potential. [Abstract](https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/) [Code](https://github.com/DavidRach/NoCellLeftBehind_MetroFlow2026) [Slides](https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/Rach_NoCellsLeftBehind_MetroFlow2026.pdf) **October 23, 2026**
-
-
 <ins>Looking for resources from a recent talk or poster?</ins>
+
+- Cytek DC/Metro User Group Meeting: Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/) [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) [Slides](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/Rach_WhyNotBoth_CytekUGM2026.pdf) 
+
+- MetroFlow: Towards ‘No Cell Left Behind’: open-source toolsets to leverage Spectral Flow Cytometry’s full biological discovery potential. [Abstract](https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/) [Code](https://github.com/DavidRach/NoCellLeftBehind_MetroFlow2026) [Slides](https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/Rach_NoCellsLeftBehind_MetroFlow2026.pdf)
 
   - Cytek Internal Webinar: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/SemiSupervised_Cytek2026/) [Code](https://github.com/DavidRach/SemiSupervised_Cytek2026) [Slides](https://davidrach.github.io/SemiSupervised_Cytek2026/Rach_SemiSupervised_Cyto2026.pdf)
 
