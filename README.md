@@ -17,11 +17,11 @@
 
 <ins>Looking for resources from a recent talk or poster?</ins>
 
-  - Cytek DC/Metro User Group Meeting: Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/) [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) [Slides](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/Rach_WhyNotBoth_CytekUGM2026.pdf) 
+  - Cytek DC/Metro User Group Meeting: Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/) [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) [Slides](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/Rach_WhyNotBoth_CytekUGM2026.pdf) [Recording](https://youtu.be/6to50ebtxsM?si=09E_6CZARzt697mx) 
 
   - MetroFlow: Towards ‘No Cell Left Behind’: open-source toolsets to leverage Spectral Flow Cytometry’s full biological discovery potential. [Abstract](https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/) [Code](https://github.com/DavidRach/NoCellLeftBehind_MetroFlow2026) [Slides](https://davidrach.github.io/NoCellLeftBehind_MetroFlow2026/Rach_NoCellsLeftBehind_MetroFlow2026.pdf)
 
-  - Cytek Internal Webinar: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/SemiSupervised_Cytek2026/) [Code](https://github.com/DavidRach/SemiSupervised_Cytek2026) [Slides](https://davidrach.github.io/SemiSupervised_Cytek2026/Rach_SemiSupervised_Cyto2026.pdf)
+  - Cytek Internal Webinar: A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/SemiSupervised_Cytek2026/) [Code](https://github.com/DavidRach/SemiSupervised_Cytek2026) [Slides](https://davidrach.github.io/SemiSupervised_Cytek2026/Rach_SemiSupervised_Cyto2026.pdf) [Recording](https://youtu.be/6to50ebtxsM?si=09E_6CZARzt697mx)
 
   - Chesapeake Cytometry Consortium: Quirks and All: unlocking comprehensive biological discovery out of your spectral flow cytometry datasets. [Abstract](https://davidrach.github.io/QuirksAndAll_CCC2026/) [Code](https://github.com/DavidRach/QuirksAndAll_CCC2026) [Slides](https://davidrach.github.io/QuirksAndAll_CCC2026/Rach_QuirksAndAll_CCC2026.pdf) [Recording](https://youtu.be/o5EhGLLpFjs?si=oberq2WvHY3Y_Lz9)     
 
