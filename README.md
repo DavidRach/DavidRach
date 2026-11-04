@@ -13,7 +13,7 @@
 
 <ins>Upcoming Conference Talks and Posters</ins>
 
-- New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/Deciphering_NECyto2026/) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) **November 5, 2026**
+- New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/Deciphering_NECyto2026/) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) [Slides](https://davidrach.github.io/Deciphering_NECyto2026/Rach_Deciphering_NECyto2026.pdf) **November 5, 2026**
 
 <ins>Looking for resources from a recent talk or poster?</ins>
 
