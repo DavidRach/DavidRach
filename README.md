@@ -13,9 +13,11 @@
 
 <ins>Upcoming Conference Talks and Posters</ins>
 
-- New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/Deciphering_NECyto2026/) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) [Slides](https://davidrach.github.io/Deciphering_NECyto2026/Rach_Deciphering_NECyto2026.pdf) **November 5, 2026**
+- Molecular and Comparative Pathobiology Department Seminar - Johns Hopkins University - **March 26, 2027 1-2 PM**
 
 <ins>Looking for resources from a recent talk or poster?</ins>
+
+- New England Cytometry: Deciphering the black box: leveraging shared-resource laboratory resources to tackle spectral flow cytometry’s quirks. [Abstract](https://davidrach.github.io/Deciphering_NECyto2026/) [Code](https://github.com/DavidRach/Deciphering_NECyto2026) [Slides](https://davidrach.github.io/Deciphering_NECyto2026/Rach_Deciphering_NECyto2026.pdf) [Recording](https://youtu.be/gmmPY4PdPuo?si=Ns0ZVTQCy0kLbKks)
 
   - Cytek DC/Metro User Group Meeting: Why not both? A semi-supervised pipeline for a comprehensive and scalable analysis of immune heterogeneity in human samples. [Abstract](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/) [Code](https://github.com/DavidRach/WhyNotBoth_CytekUGM2026) [Slides](https://davidrach.github.io/WhyNotBoth_CytekUGM2026/Rach_WhyNotBoth_CytekUGM2026.pdf) [Recording](https://youtu.be/6to50ebtxsM?si=09E_6CZARzt697mx) 
 
